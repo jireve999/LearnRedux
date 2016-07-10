@@ -1,1 +1,1 @@
-React Boilerplate Application
+Learn Redux
